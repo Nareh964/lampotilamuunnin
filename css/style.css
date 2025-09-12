@@ -1,0 +1,25 @@
+body{
+    height: 700px;
+    width: 600px;
+    font-family: Verdana;
+}
+header{
+    width: 50%;
+    height: 68px;
+}
+main{
+    margin-top:0;
+    position: relative;
+    top: -30px;
+}
+main, form{
+    margin-top: 0;
+    position: relative;
+    top: 0;
+}
+p{
+    margin-top:0;
+    position: relative;
+    top: 14px;
+
+}
