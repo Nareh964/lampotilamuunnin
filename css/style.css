@@ -3,9 +3,7 @@ body{
     width: 600px;
     font-family: Verdana;
 }
-header{
-    width: 50%;
-}
+
 main{
     margin-top:0;
     position: relative;
@@ -20,5 +18,6 @@ p{
     margin-top:0;
     position: relative;
     top: 14px;
+
 
 }
